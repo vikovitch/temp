@@ -1,0 +1,15 @@
+* {
+    background-color: #bbbb88;
+}
+h1, div {
+    background-color: #e2e2a7;
+    border-width: 2px;
+    border-color: black;
+    border-radius: 4px;
+    border-style: solid;
+    padding: 6px;
+}
+p {
+    background-color: inherit;
+    margin: 2px 0px 6px 4px;
+}
