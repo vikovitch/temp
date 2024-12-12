@@ -1,0 +1,28 @@
+[Message:   BepInEx] BepInEx 5.4.23.2 - BoplBattle (11/29/2024 9:01:09 AM)
+[Info   :   BepInEx] Running under Unity v2019.4.40.16762411
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.23.2]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 6 plugins to load
+[Info   :   BepInEx] Loading [configdrill 1.0.0]
+[Info   :configdrill] Plugin configdrill is loaded!
+[Info   :configdrill] harmany created
+[Info   :configdrill] configdrill Patch Compleate!
+[Info   :   BepInEx] Loading [Zero Ability Cooldowns 1.3.1]
+[Info   :Zero Ability Cooldowns] Plugin Zero Ability Cooldowns is loaded!
+[Info   :   BepInEx] Loading [Almighty Push 1.0.0]
+[Info   :Almighty Push] Almighty Push is loaded!
+[Info   :   BepInEx] Loading [Instant Arrow 1.0.0]
+[Info   :Instant Arrow] Plugin instantArrow is loaded!
+[Info   :   BepInEx] Loading [PowerupsConfig 2.0.1]
+[Info   :PowerupsConfig] Plugin PowerupsConfig is loaded!
+[Info   :   BepInEx] Loading [Arrow Wall 1.0.0]
+[Info   :Arrow Wall] Plugin arrowWall is loaded!
+[Message:   BepInEx] Chainloader startup complete
